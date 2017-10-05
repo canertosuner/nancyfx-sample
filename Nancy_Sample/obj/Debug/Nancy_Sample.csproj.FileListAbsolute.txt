@@ -1,0 +1,15 @@
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy_Sample.exe.config
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy_Sample.exe
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy_Sample.pdb
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy.dll
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy.Hosting.Self.dll
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy.xml
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy.Hosting.Self.xml
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\obj\Debug\Nancy_Sample.csprojResolveAssemblyReference.cache
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\obj\Debug\Nancy_Sample.exe
+c:\users\caner.tosuner\documents\visual studio 2015\Projects\Nancy_Sample\Nancy_Sample\obj\Debug\Nancy_Sample.pdb
+C:\Users\caner.tosuner\Documents\Visual Studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\View\Home.cshtml
+C:\Users\caner.tosuner\Documents\Visual Studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy.ViewEngines.Razor.dll
+C:\Users\caner.tosuner\Documents\Visual Studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\System.Web.Razor.dll
+C:\Users\caner.tosuner\Documents\Visual Studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\Nancy.ViewEngines.Razor.xml
+C:\Users\caner.tosuner\Documents\Visual Studio 2015\Projects\Nancy_Sample\Nancy_Sample\bin\Debug\System.Web.Razor.xml
